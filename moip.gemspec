@@ -6,9 +6,9 @@ Gem::Specification.new do |gem|
 
   gem.authors = ["Guilherme Nascimento"]
   gem.date = %q{2010-11-10}
-  gem.description = %q{Gem para utilização da API MoIP}
+  gem.description = %q{Gem para utilizacao da API MoIP}
   gem.email = %q{guilherme.ruby@gmail.com}
-  gem.summary = %q{Gem para utilização da API MoIP}
+  gem.summary = %q{Gem para utilizacao da API MoIP}
 
   gem.files = `git ls-files`.split("\n")
   gem.test_files = `git ls-files -- spec/*.rb`.split("\n")
